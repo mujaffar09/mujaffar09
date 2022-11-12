@@ -30,7 +30,7 @@
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
  
-  <a href="[(https://www.linkedin.com/in/mujaffar-tamboli-097409175)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/mujaffar09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mujaffar" height="30" width="40" /></a>
+  <a href="[(https://www.linkedin.com/in/mujaffar-tamboli-097409175)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/mujaffar09/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
