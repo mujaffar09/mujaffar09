@@ -2,7 +2,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3>Hi, I'm Mujaffar Tamboli</h3>
-  <p>I am Full Stack Developer. 
+  <p>I am a Full Stack Developer. 
     
   </p> 
 </div>
