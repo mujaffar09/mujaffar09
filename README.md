@@ -28,9 +28,8 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-<p align="left" >
- 
-  <a href="[(https://www.linkedin.com/in/mujaffar-tamboli-097409175)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/mujaffar-tamboli-097409175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddesh-t-70b56b209" height="30" width="40" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
