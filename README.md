@@ -48,3 +48,4 @@
         <img src="https://komarev.com/ghpvc/?username=mujaffar09&label=Profile%20views&color=0e75b6&style=flat" alt="Mujaffar" />
     </a>
 </p>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mujaffar09&repo=Country-Data](https://github.com/mujaffar09/Country-Data.git) 
